@@ -68,3 +68,9 @@ The primary actor such as the user and how they will interact with various syste
 
 ![image](https://github.com/user-attachments/assets/a5539247-d58e-491c-984f-67fc2ab74290)
 ![image](https://github.com/user-attachments/assets/d6c46935-89df-497f-bab3-3b00a80c55bd)
+
+In the psuedocode I create above The syntax is very easy to understand. Th reason I chose to design a psuedocode was because:
+
+###### Structure and Clarity:
+
+Before getting into the complicated details of real code,psuedocode assisted me in outlining the structure and logic of my future application in simple, human redable terms. I was able to see how each feature such as timer, workout counting, and drink tracking and would function together thanks to this.
