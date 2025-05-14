@@ -74,3 +74,11 @@ In the psuedocode I create above The syntax is very easy to understand. Th reaso
 ###### Structure and Clarity:
 
 Before getting into the complicated details of real code,psuedocode assisted me in outlining the structure and logic of my future application in simple, human redable terms. I was able to see how each feature such as timer, workout counting, and drink tracking and would function together thanks to this.
+
+###### Easier Collaboration:
+
+A universal instrument for communication is psuedocode. Psuedocode is understandable and accessible for stakeholders and team members.
+
+###### Foundation for development:
+
+For developing this projetc, psuedocode served as a blueprint.Since the logic and flow have already been sketched out, it is considerably simpler to conver psuedocode into actual code.
