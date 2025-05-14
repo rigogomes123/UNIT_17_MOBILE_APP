@@ -39,6 +39,11 @@ For this Page I decied to only implemnet 2 option which were Option one which al
 
 For this specifict design It will have two main screen, the first screen will allow the user to inter the amount of water they have drunk in either glass or ml, the secound screen will output the infomration and store it that way the user is able to keep track of their intake, regrading the background image I will probably implemnet a inmage of a person drinking water.
 
+I got my aspiration from the following design:
+
+![image](https://github.com/user-attachments/assets/db85e7f7-c36d-4a4c-9a2e-cb963580c700)
+
+
 ##### Timer and workout Page:
 
 ![image](https://github.com/user-attachments/assets/45f99c17-a098-41d2-9ca9-3f90274a9b48)
