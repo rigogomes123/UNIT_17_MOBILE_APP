@@ -49,3 +49,8 @@ I got my aspiration from the following design:
 ![image](https://github.com/user-attachments/assets/45f99c17-a098-41d2-9ca9-3f90274a9b48)
 
 Just like the previous deisgn thiis design will also contain 2 inputs and 2 output the first input will allow the user to keep track of the amount of workouts they have done, and the secound input will be a timer wich will have 3 options START,STOP and RESET.
+
+# Data Flow Diagram:
+
+# Psuedocode:
+
