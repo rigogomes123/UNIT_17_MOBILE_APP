@@ -50,7 +50,19 @@ I got my aspiration from the following design:
 
 Just like the previous deisgn thiis design will also contain 2 inputs and 2 output the first input will allow the user to keep track of the amount of workouts they have done, and the secound input will be a timer wich will have 3 options START,STOP and RESET.
 
-# Data Flow Diagram:
+# Case diagram:
+
+![image](https://github.com/user-attachments/assets/9ef60e5c-71f6-40d2-bc1f-761b7d6b5338)
+
+By using the case diagram it provides calrity and understanding, the functions of the application such as water intake,monitoring and calculating workouts by utilising a timer and how the users will interact with them are clearly and visually represented.
+
+The primary actor such as the user and how they will interact with various system components are easuly readable and understandable.For instance:
+
+"Track water intake" --> The user enters the amount of water consumption.
+
+"Track Workouts" --> The user can record workouts that are finished.
+
+"Workout Timer" --> During exercise, the user intiates and stops the timer.
 
 # Psuedocode:
 
