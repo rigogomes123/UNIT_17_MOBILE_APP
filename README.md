@@ -19,7 +19,7 @@ screenshot:
 
 ![image](https://github.com/user-attachments/assets/9683a15d-54d1-4c7f-8d2a-bc1a2c633bc1)
 
-In my first wireframe design of the home screen of an android, i recreated what it would look like in android studio. 
+In my first wireframe design of the home screen of an android, i recreated what it would look like in android studio. The main default page
 
 ##### App's main page/ Home screen:
 
