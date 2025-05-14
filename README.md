@@ -25,6 +25,8 @@ In my first wireframe design of the home screen of an android, i recreated what 
 
 ![image](https://github.com/user-attachments/assets/eba4a41f-9a4b-4c18-9302-0497cc911ff1)
 
+The main application page will contain a background image which will probably be black or a dark style, It will contain a message welcoming the user to the application and a button(Get Started) wich will lead to start the whole application it seldf
+
 ##### App's Lanidng page:
 
 ![image](https://github.com/user-attachments/assets/dbc9095f-c012-407c-8176-0104af606ede)
