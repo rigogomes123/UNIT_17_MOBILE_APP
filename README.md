@@ -66,3 +66,5 @@ The primary actor such as the user and how they will interact with various syste
 
 # Psuedocode:
 
+![image](https://github.com/user-attachments/assets/a5539247-d58e-491c-984f-67fc2ab74290)
+![image](https://github.com/user-attachments/assets/d6c46935-89df-497f-bab3-3b00a80c55bd)
