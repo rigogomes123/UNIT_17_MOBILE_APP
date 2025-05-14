@@ -82,3 +82,5 @@ A universal instrument for communication is psuedocode. Psuedocode is understand
 ###### Foundation for development:
 
 For developing this projetc, psuedocode served as a blueprint.Since the logic and flow have already been sketched out, it is considerably simpler to conver psuedocode into actual code.
+
+Overall Psuedocode was a useful tool for designing ans sketching out how my program/code will look.
