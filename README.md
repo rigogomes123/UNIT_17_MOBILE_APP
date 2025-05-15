@@ -86,3 +86,45 @@ For developing this projetc, psuedocode served as a blueprint.Since the logic an
 Overall Psuedocode was a useful tool for designing ans sketching out how my program/code will look.
 
 # Review the mobile app designs with others to identify and inform refinements:
+
+
+
+
+
+
+# Mobile app produced:
+
+
+
+
+
+# Test plan fpr functionality, usability, stability and performance:
+
+
+| Header 1 | Header 2 | Header 3 |
+|-----------|-----------|-----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+
+
+
+
+# A review to which extend the mobile application met the identified requiremnets:
+
+
+
+
+
+
+# Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
+
+
+
+
+
+
+
+
+# Optimised version of the mobile application:
+
