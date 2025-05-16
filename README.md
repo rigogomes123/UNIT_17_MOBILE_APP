@@ -94,7 +94,14 @@ From the feedback I reevied from two of my classmates I decied to better my desi
 
 # Mobile app produced:
 
+home Page:
 
+![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
+
+
+menu page:
+
+![image](https://github.com/user-attachments/assets/b3fc9b2a-8302-4c09-a87e-04854d8b5594)
 
 
 
