@@ -88,7 +88,7 @@ Overall Psuedocode was a useful tool for designing ans sketching out how my prog
 # Review the mobile app designs with others to identify and inform refinements:
 
 
-
+From the feedback I reevied from two of my classmates I decied to better my design 
 
 
 
