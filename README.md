@@ -140,7 +140,7 @@ workout counter page:
 |-|-------|-------|-------|-------|
 |    The "Get started" button works and moves on to the next page  |    Button   |   Stability    |    To make sure thate the button succesfully leads to the next page "menu page"   |     Pass  |
 |   Timer continues counting corrcetly over time    |   Timer    |   Stability    |    To make sure the timer operates pricesly and doesn't crash or freeze for long stretches of time   |       |
-|       |       |       |       |       |
+|     Timer handles rapid start/pause/reset clicks  |     Timer  |   Stability    |   To verify that the application maintains stability when buroon are clicked quickly one after the other    |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
