@@ -100,7 +100,7 @@ Feedback from "Favour Ajiduah":
 
 ###### Changed made:
 
-I will now show the chaces made in my wireframe from the feeback which I recived.
+I will now show the new wireframe that I created to meet the reponses from the feedback that I recived from my classmates:
 
 
 
