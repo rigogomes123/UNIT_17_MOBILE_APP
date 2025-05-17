@@ -127,7 +127,9 @@ The changes made here are very little, I made a mistake, initially I thought tha
 
 ![image](https://github.com/user-attachments/assets/7bcd0d18-42e6-47c4-8684-cbe3bf7eab8e)
 
-In my new design
+In my new design I clearlified where the button is such as "Get Started" by implmentating this change I successfully met the feeback sugestion which I recvied from my classmate.
+
+
 
 # Mobile app produced:
 
