@@ -177,5 +177,5 @@ workout counter page:
 
 
 
-# Demonstarte individual responsibility, creativity and effective self - managemnt in the design, development and revirw of a mobile app.
+# Demonstrate individual responsibility, creativity and effective self - managemnt in the design, development and review of a mobile app.
 
