@@ -98,21 +98,36 @@ Feedback from "Favour Ajiduah":
 ![image](https://github.com/user-attachments/assets/64b9b48b-7ef3-4ebc-b007-2df263f4d6eb)
 
 
-###### Changed made:
+###### Changes made:
 
 I will now show the new wireframe that I created to meet the reponses from the feedback that I recived from my classmates:
 
-#### New main android studio screen:
-
-## New:
-
-![image](https://github.com/user-attachments/assets/c6e65fdf-8d4d-4c83-b57f-10a4bf9757cb)
+#### main android studio screen:
 
 ## old:
 
-![image](https://github.com/user-attachments/assets/22084120-3013-4718-9ca9-7e8ead668255)
+![image](https://github.com/user-attachments/assets/936f8fca-dafd-443d-9388-8dd8173166a1)
 
-The changes made here are very little, I decided 
+
+## new:
+
+![image](https://github.com/user-attachments/assets/9b4ab716-f029-46dc-84a5-0829a064daa6)
+
+
+The changes made here are very little, I made a mistake, initially I thought that I needed to create a application interface but with android studio it was already created there for me, so I moved it back to its main location.
+
+### App's main page/Home page:
+
+## old:
+
+![image](https://github.com/user-attachments/assets/90526df5-d4cb-456d-9209-86f2b69d0c3e)
+
+
+## new:
+
+![image](https://github.com/user-attachments/assets/7bcd0d18-42e6-47c4-8684-cbe3bf7eab8e)
+
+In my new design
 
 # Mobile app produced:
 
