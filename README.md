@@ -138,7 +138,7 @@ workout counter page:
 
 | Test Scneario | Feature | Test Type | Description | Pass or Fail |
 |-|-------|-------|-------|-------|
-|    sfsff   |       |       |       |       |
+|    The "Get started" button works and moves on to the next page  |    Button   |   Stability    |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
