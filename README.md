@@ -138,7 +138,7 @@ workout counter page:
 
 | Test Scneario | Feature | Test Type | Description | Pass or Fail |
 |-|-------|-------|-------|-------|
-|    The "Get started" button works and moves on to the next page  |    Button   |   Stability    |    To make sure thate the button succesfully leads to the next page "menu page"   |       |
+|    The "Get started" button works and moves on to the next page  |    Button   |   Stability    |    To make sure thate the button succesfully leads to the next page "menu page"   |     Pass  |
 |   Timer continues counting corrcetly over time    |   Timer    |   Stability    |    To make sure the timer operates pricesly and doesn't crash or freeze for long stretches of time   |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
