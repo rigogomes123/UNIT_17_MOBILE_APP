@@ -120,15 +120,36 @@ menu page:
 ![image](https://github.com/user-attachments/assets/b3fc9b2a-8302-4c09-a87e-04854d8b5594)
 
 
+How it met the design criteria:
 
-# Test plan fpr functionality, usability, stability and performance:
+The wellness spa and gym app's menu page is well designed and easy to use,with obvious ways to acess its three main features, water tracker, workout counter, and timer. Users can easily comprehend and acess any option with a single tap thanks to the button' Large display and veritcal alingnment. The "Back" button at the top allows for seamless movement to the previous screen, while the colour scheme's consistency preserves visual harmony. Users can navigate the app with ease and effective manage their wellness habits thanks to its simple and practical structure.
+
+Timer Page:
+
+Water Tracker Page:
+
+workout counter page:
 
 
-| Header 1 | Header 2 | Header 3 |
-|-----------|-----------|-----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+
+
+# Test plan for functionality, usability, stability and performance:
+
+
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
+|-------|-------|-------|-------|-------|
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+
 
 
 
@@ -144,10 +165,12 @@ menu page:
 
 
 
+# Optimised version of the mobile application and how it met the client requirements:
+
+
+# Evaluate the design and optimised mobile app against client requiremenets
 
 
 
-
-
-# Optimised version of the mobile application:
+# Demonstarte individual responsibility, creativity and effective self - managemnt in the design, development and revirw of a mobile app.
 
