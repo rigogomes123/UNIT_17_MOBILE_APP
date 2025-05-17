@@ -108,7 +108,11 @@ I will now show the new wireframe that I created to meet the reponses from the f
 
 ![image](https://github.com/user-attachments/assets/c6e65fdf-8d4d-4c83-b57f-10a4bf9757cb)
 
+## old:
 
+![image](https://github.com/user-attachments/assets/22084120-3013-4718-9ca9-7e8ead668255)
+
+The changes made here are very little, I decided 
 
 # Mobile app produced:
 
