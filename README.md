@@ -136,9 +136,9 @@ workout counter page:
 # Test plan for functionality, usability, stability and performance:
 
 
-| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
-|-------|-------|-------|-------|-------|
-|       |       |       |       |       |
+| Test Scneario | Feature | Test Type | Description | Pass or Fail |
+|-|-------|-------|-------|-------|
+|    sfsff   |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
