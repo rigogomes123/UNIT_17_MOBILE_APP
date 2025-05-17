@@ -106,13 +106,13 @@ I will now show the chaces made in my wirefram from the feeback which I recived.
 
 # Mobile app produced:
 
-home Page:
+home Page produced:
 
 ![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
 
-Explanation of design:
+How it met the design criteria:
 
-
+The welness spa and gym application's Home page succesfully create a friendly, fitness focused environment. The eye catching background image instantly establishes the ideal mood for users by capturing the energy of the gym. The "Get Started" button which is stands out in the middle of the screen, is an abvious and captivating call to action that encourages people to start their wellness journey. A personal touch is aslo added by the welcoming message, which immediately connects users to the app's mission. All things consideres, the design is eye catching and complemnets the app's fitness and health theme nicely.
 
 
 menu page:
