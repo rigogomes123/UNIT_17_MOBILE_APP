@@ -149,9 +149,9 @@ workout counter page:
 |    Water tracker buttons are responsive   |   Water Tracker    |    Performance   |   Makes sure that the user is able to react quickly when resettung the tracker or adding water    |       |
 |   Workout counter counts workout reps without errors    |   Workout Counter    |   Stability    |   During extended workouts,makes sure the workout counter doesn't crash or miscount    |       |
 |   Workout Counter UI clearly shows rep count    |   Workout Counter    |  Usability     |   To verify the format and legibility of the exercise repetitions that are displayed    |       |
-|   Workout counter reacts instantly to controls    |  Workout Counter     |    Performance   |       |       |
-|       |       |       |       |       |
-|       |       |       |       |       |
+|   Workout counter reacts instantly to controls    |  Workout Counter     |    Performance   |   To verify that the exercise counter reacts instantly when it is started,paused, or reset    |       |
+|   App handles backgrounding and foregrounding    |   All    |  Stability     |  To verify that timers and trackers accurately perserve state when the application is relauched or backgrounded     |       |
+|    App interfcae is intutive and buttons labeled well   |   Usability    |       |       |       |
 |       |       |       |       |       |
 
 
