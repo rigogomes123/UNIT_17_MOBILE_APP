@@ -145,7 +145,7 @@ workout counter page:
 |    Timer buttons enable/ disable appropriately    |    Timer  |   Usability    |    To check that the start,pause, and reste buttons are turned on and off according to the timer's current state   |       |
 |   Timer responds quickly to user input    |    Timer   |    Performance    |    To verify that there is no dealy in the timer's reponse to the user commands   |       |
 |    Water intake increases by correct amount   |    Water Tracker   |  Stability     |   To verify that the application does not crash or display errors when you frequently register your water consumption    |       |
-|       |       |       |       |       |
+|   Water tracker shows clear intake total    |    Water Tracker   |    Usability   |    To check that the water inktake display is visible,clear, and updates appropriately   |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
