@@ -90,6 +90,18 @@ Overall Psuedocode was a useful tool for designing ans sketching out how my prog
 
 From the feedback I recived from two of my classmates I decied to better my design 
 
+Feeback from "Astin Uka-wanna":
+
+
+Feedback from "Favour Ajiduah":
+
+![image](https://github.com/user-attachments/assets/64b9b48b-7ef3-4ebc-b007-2df263f4d6eb)
+
+
+###### Changed made:
+
+I will now show the chaces made in my wirefram from the feeback which I recived.
+
 
 
 # Mobile app produced:
