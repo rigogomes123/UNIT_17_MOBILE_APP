@@ -143,7 +143,7 @@ workout counter page:
 |     Timer handles rapid start/pause/reset clicks  |     Timer  |   Stability    |   To verify that the application maintains stability when buroon are clicked quickly one after the other    |       |
 |   Timer UI updates correctly    |    Timer   |     Usability  |  It verifies that the timer display is updated and that the time is formatted correctly such as mm:ss for secound and minutes     |       |
 |    Timer buttons enable/ disable appropriately    |    Timer  |   Usability    |    To check that the start,pause, and reste buttons are turned on and off according to the timer's current state   |       |
-|       |       |       |       |       |
+|   Timer responds quickly to user input    |    Timer   |    Performance    |    To verify that there is no dealy in the timer's reponse to the user commands   |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
 |       |       |       |       |       |
