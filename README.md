@@ -110,6 +110,10 @@ home Page:
 
 ![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
 
+Explanation of design:
+
+
+
 
 menu page:
 
