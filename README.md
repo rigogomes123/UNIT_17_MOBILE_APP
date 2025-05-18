@@ -165,7 +165,7 @@ The refinemnets I made were In my first design I made the timer and the workout 
 
 ![image](https://github.com/user-attachments/assets/d874bc1e-357a-42ea-819c-a3a205568073)
 
-
+As a previous stated I seperated the workout counter and timer into 2 different pages, In my newest design Ive made it very clear where all the imputs are loctaed and where the main output will appear, in this case The "0" will be the number of workouts that will remain an output the "-" and "+" signs will add or take away from the output. Futhermore I successfully met the suggestion I recived from my classmates which were to label each interactive button and have another "back" button to lead back to the previous page inorder to benefit application flow.
 
 # Mobile app produced:
 
