@@ -146,10 +146,6 @@ The refinemnets I made were that I changed the layout of my buttons instead of h
 
 ### Old:
 
-![image](https://github.com/user-attachments/assets/dcf69ac7-396f-4cfb-9962-e4e460591223)
-
-### Old:
-
 ![image](https://github.com/user-attachments/assets/fcd05c1c-4d16-4f17-9e35-608b2a0000ca)
 
 ### New:
