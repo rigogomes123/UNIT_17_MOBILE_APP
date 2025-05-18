@@ -167,6 +167,21 @@ The refinemnets I made were In my first design I made the timer and the workout 
 
 As a previous stated I seperated the workout counter and timer into 2 different pages, In my newest design Ive made it very clear where all the imputs are loctaed and where the main output will appear, in this case The "0" will be the number of workouts that will remain an output the "-" and "+" signs will add or take away from the output. Futhermore I successfully met the suggestion I recived from my classmates which were to label each interactive button and have another "back" button to lead back to the previous page inorder to benefit application flow.
 
+### Water Tracker Page:
+
+## Old:
+
+![image](https://github.com/user-attachments/assets/fd3ae1a8-40ec-41f9-9eac-a3579b6956c5)
+
+## New:
+
+![image](https://github.com/user-attachments/assets/707e67ff-d536-4eb6-b070-75842b8a4246)
+
+The refinemnets I made in this design were very little, I just made clear where all the inputs will be located, additonaly I also implmented a reset button so that the user can reset the timer anytime they need. Lastly I also successfully met the suggestion from my peers which were to labell each interactive button and implmnebt a button that can lead to the previous page benefiting the application flow.
+
+
+Overall I was able to create a better wireframe from the feedback I recived from my peers and also just using android studio more and understanding how its syntax works.
+
 # Mobile app produced:
 
 home Page produced:
