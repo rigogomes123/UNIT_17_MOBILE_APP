@@ -127,9 +127,20 @@ The changes made here are very little, I made a mistake, initially I thought tha
 
 ![image](https://github.com/user-attachments/assets/7bcd0d18-42e6-47c4-8684-cbe3bf7eab8e)
 
-In my new design I clarified where the button is such as "Get Started" by implmentating this change I successfully met the feeback sugestion which I recvied from my classmate.
+In my new design I clarified where all the interactive buttons will be placed such as "Get Started" by implmentating this change I successfully met the feeback sugestion which I recvied from my classmate.
+
+### Menu Page:
+
+## Old:
+
+![image](https://github.com/user-attachments/assets/bf38be19-adb4-4a96-8f7a-922698992916)
 
 
+## New:
+
+![image](https://github.com/user-attachments/assets/20385362-7271-4734-b040-a7eac76669c4)
+
+The refinemnets I made were that I changed the layout of my buttons instead of having the button side by side, I made them vertically stacked because this type of layput is oftern perfered since it can provide better readability, reponsivness and accessbility in a mobile app design. Futher more as shown in the screenshot I have met both of the suggestion from my classmate which were to accurately label my button and have a button which can lead back to the previous page.
 
 # Mobile app produced:
 
