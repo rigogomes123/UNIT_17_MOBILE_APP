@@ -142,6 +142,35 @@ In my new design I clarified where all the interactive buttons will be placed su
 
 The refinemnets I made were that I changed the layout of my buttons instead of having the button side by side, I made them vertically stacked because this type of layput is oftern perfered since it can provide better readability, reponsivness and accessbility in a mobile app design. Futher more as shown in the screenshot I have met both of the suggestion from my classmate which were to accurately label my button and have a button which can lead back to the previous page.
 
+##  Timer Page
+
+### Old:
+
+![image](https://github.com/user-attachments/assets/dcf69ac7-396f-4cfb-9962-e4e460591223)
+
+### Old:
+
+![image](https://github.com/user-attachments/assets/fcd05c1c-4d16-4f17-9e35-608b2a0000ca)
+
+### New:
+
+![image](https://github.com/user-attachments/assets/30d94ea6-fb05-422b-b07a-f51007e06a27)
+
+The refinemnets I made were In my first design I made the timer and the workout counter in the same page, whilst on my new I decided to separate them because, a application that divides its timer and workout counter into two distinct pages improves focus and streamlines the user experience. The design decision decision optimises each page for its particular purpose, minimises clutter, and enhances readability. Because users may fouces on timing or counting without interruption, it also reduces mental strain during workouts. Futhermore I also successfully used the feedback from my classmate by leballing each interactive button and having a button "Back" which can lead back to the previous page. Addtionaly I also have clear naming conventions for my button and they are easily visible.
+
+### Workout counter page:
+
+## Old
+
+![image](https://github.com/user-attachments/assets/61929516-187e-4e81-a162-041a767a5e1b)
+
+
+## New
+
+![image](https://github.com/user-attachments/assets/d874bc1e-357a-42ea-819c-a3a205568073)
+
+
+
 # Mobile app produced:
 
 home Page produced:
