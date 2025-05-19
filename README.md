@@ -239,7 +239,21 @@ workout counter page:
 
 # A review to which extend the mobile application met the identified requiremnets:
 
+### Home page:
 
+
+As the user's main hub, the home page is essential to their experiecnec and levle of involvement. The Home page of this kind of wellness focused software should provide users with a visual representation of their daily progress in addition to easy access to main functions, which include the timer, workout tracker. Showing them how many liters of water they've consumed or how many workouts they've completed, for instance, helps keep them interested and motivated.
+
+Goal Progress indicators, including a water progress bar and a workout streak tracker, should be included on the main page in order for it to reach its full potential. These features not only improve the app's usability at a glance but also support the development of healthy behaviors. Futhermore, adding wellness themed user interface components like relaxing shades, inspiration saying, or streak badges, would improve the spa and gym branding and make the app friendlier.
+
+
+### Timer page:
+
+
+### Workout counter:
+
+
+### Water Tracker:
 
 
 
