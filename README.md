@@ -204,10 +204,17 @@ The wellness spa and gym app's menu page is well designed and easy to use,with o
 
 Timer Page:
 
+![image](https://github.com/user-attachments/assets/ca16f1a8-ced1-4a23-a33d-39cc4a27e4aa)
+
+
 Water Tracker Page:
+
+![image](https://github.com/user-attachments/assets/7cf8db57-c95d-43ee-b64b-176217288e93)
+
 
 workout counter page:
 
+![image](https://github.com/user-attachments/assets/6100e1fc-0521-475e-997b-1c07ddb677b8)
 
 
 
