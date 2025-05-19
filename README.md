@@ -249,8 +249,10 @@ Goal Progress indicators, including a water progress bar and a workout streak tr
 
 ### Timer page:
 
+The timer page helps users while they work out is especially helful for timiing test breaks or interval based routines. The app should have a basic stopwatch and countdown timer in order to satisfy the requirement. It should, however, have adjustable interval clocks that let user specify work and rest such as 30 secounds of activity in order to be genuinely useful for workout treatments.
 
 ### Workout counter:
+
 
 
 ### Water Tracker:
