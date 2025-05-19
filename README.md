@@ -202,6 +202,8 @@ How it met the design criteria:
 
 The wellness spa and gym app's menu page is well designed and easy to use,with obvious ways to acess its three main features, water tracker, workout counter, and timer. Users can easily comprehend and acess any option with a single tap thanks to the button' Large display and veritcal alingnment. The "Back" button at the top allows for seamless movement to the previous screen, while the colour scheme's consistency preserves visual harmony. Users can navigate the app with ease and effective manage their wellness habits thanks to its simple and practical structure.
 
+
+
 Timer Page:
 
 ![image](https://github.com/user-attachments/assets/ca16f1a8-ced1-4a23-a33d-39cc4a27e4aa)
@@ -260,11 +262,11 @@ The timer page helps users while they work out is especially helful for timiing 
 
 ### Workout counter:
 
-
+Anothor essential requirement is that the workout counter page can track the number of workouts the user completes. In its most basic form, it should enavle the user to tap once to record an exercise. Another feature I decied to implment was that the users are able to type which workout they would like to track. Features like weekly fitness objectives, achivement badges, or a streak tracker that indicates the number of consecutive days a user has been active should be included on this page to encourage habit formation and maintain user motivation.In oder to assist user visualise their consistency and gain momentum. Overall my mobile application met the requiremnet that was asked in the assignment brief.
 
 ### Water Tracker:
 
-
+By allowing visitors to monitor their daily hydration,the water tracker page directly satisfies one of the spa's fundamental needs. In its most basic form, this page allows users to record how much water they have drunk in measuremnets liike mililitres by implementating all of this features my page has met the requirements which were stated in the brief.
 
 
 # Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
