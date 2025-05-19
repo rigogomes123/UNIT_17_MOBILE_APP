@@ -269,6 +269,11 @@ Anothor essential requirement is that the workout counter page can track the num
 By allowing visitors to monitor their daily hydration,the water tracker page directly satisfies one of the spa's fundamental needs. In its most basic form, this page allows users to record how much water they have drunk in measuremnets liike mililitres by implementating all of this features my page has met the requirements which were stated in the brief.
 
 
+### In summary:
+
+In conclusion,the four main sections of my mobile application (Home,water tracker, workout counter and timer) all have distinct functions and a solid foundation.However, goal monitoring, visual feedback, customisation, and historical data should be included to each element in order to fullly satisfy the spa and gym's criterua and give users a meaningful experience.
+
+
 # Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
 
 
