@@ -208,17 +208,21 @@ Timer Page:
 
 ![image](https://github.com/user-attachments/assets/ca16f1a8-ced1-4a23-a33d-39cc4a27e4aa)
 
+How it met the design criteria:
+
+The timer I created met the design criteria by offering a starightforward and useful tool for usage during exercise. With its simple start,stop and reset functions, users can easily manage the time of their workouts .Despite being simple,this feature lets user control the ;ength of their sessions,which supports a variety of exercise styles. The timer is made to function well on mobile devices. Making it simple to use in a spa or a gym.Its incorporation inside the application gurantees that it supports the overraching objectoves of promoting regular exercise routines.
 
 Water Tracker Page:
 
 ![image](https://github.com/user-attachments/assets/7cf8db57-c95d-43ee-b64b-176217288e93)
 
+How it met the design criteria:
 
 workout counter page:
 
 ![image](https://github.com/user-attachments/assets/6100e1fc-0521-475e-997b-1c07ddb677b8)
 
-
+How it met the design criteria:
 
 # Test plan for functionality, usability, stability and performance:
 
