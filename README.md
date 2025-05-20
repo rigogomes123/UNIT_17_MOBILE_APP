@@ -216,6 +216,7 @@ Water Tracker Page:
 
 ![image](https://github.com/user-attachments/assets/7cf8db57-c95d-43ee-b64b-176217288e93)
 
+
 How it met the design criteria:
 
 workout counter page:
@@ -223,6 +224,9 @@ workout counter page:
 ![image](https://github.com/user-attachments/assets/6100e1fc-0521-475e-997b-1c07ddb677b8)
 
 How it met the design criteria:
+
+By providing users with an easy to use and efficient method of tracking their daily workouts, the workout counter I designed satisfies the design requirements.With the output value always starting a zero every day, it has buttons for plus and minus that let users change the count. Users may easily record the amount of workouts they complete thanks to this user friendly design, which supports them in maintaining consistency with their fitness objectives.The counter's simple operation satisfies the client's need to track physical activity as it designed to work for mobile devices,making it user friendly in both spa and gym setiings.
+
 
 # Test plan for functionality, usability, stability and performance:
 
