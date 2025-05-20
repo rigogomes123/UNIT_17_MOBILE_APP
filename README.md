@@ -358,6 +358,35 @@ Maintaining user engagemnet requires smooth interaction. Usability is improved b
 * The minimalist layout lessens cognite overload, which allows users to focus on tracking their fitness without interruptions.
 
 
+##### How it meets user needs:
+
+* Gives easy access to all of the main features.
+
+* Reduces annoyance with simple navigation.
+
+* Improves the user experience by making sense.
+
+### Motivational Home page:
+
+A welcoming and motivational home page creates the ideal atmosphere for visitors/user.
+
+##### Design choices that support this feature:
+
+* Fitness Background Image: Encourages and reinforces the goal of the app.
+
+* The "Get Started" button removes uncertainty by offering a clear and simple access point.
+
+##### How it meets user needs:
+
+* Invites users to interact with the app right away.
+
+* Creates an inpiring environment that increases dedication.
+
+* Enhances rhe app's focus on fitness.
+
+## Conclusion:
+
+The design of my application efficently satisfies the needs of the spa and gym while guranteeing a simple,seamless, and inspiring user experience. Every element has been designed to improve usability so that users can easily form healthy habits. The app is a useful wellness companion beacuse it has clear monitoring features, a sensible navigation system, and inpirational components.
 
 
 
