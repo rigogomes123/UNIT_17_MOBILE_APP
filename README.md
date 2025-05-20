@@ -286,7 +286,7 @@ In conclusion,the four main sections of my mobile application (Home,water tracke
 
 My application design priotitises efficacy, accessibility, and simplicity. Carefully considered design decisions that improve usability and motivation satisfy the three main need which are a water tracker, timer and a workout counter.
 
-### Water Tracker:
+### Tracing Water Intake:
 
 Enabling users to monitor their daily water consumption is one of the most important requirements. This requiremnet met by their choice to include a water trackeer, which gurantees that users can regularly record their intake.
 
@@ -296,6 +296,49 @@ Enabling users to monitor their daily water consumption is one of the most impor
 * Dedicated wtaer tracking page:  Water tracking is made simple for users by having its own part, which eliminates the need to navigate through pointless menus.
 
 * Easy data entry mechanism: User can easily report their consumption thanks to an easy to use interface, which promotes habit building without difficulty.
+
+##### How it meets user needs
+
+* Supports hydration objectives, which are essential for health and fitness.
+
+* Enables easy tracking with starightforward navigation.
+
+* Provides measuring versability by acommodation different user flexibility.
+
+
+### Tracking Workouts:
+
+By enabling users to log in their fitness efforts, my workout counter promotes motivation and consistency.
+
+#### Design choices that support this feature:
+
+* A didicated page for monitoring workout: This keep everything organised, avoid, confusion, and makes tracking simple.
+
+* The incremnetal tracking feature makes it simple for users to record each session, which aids in progress visualisation.
+
+
+#### How it meets user needs:
+
+*  Promotes accountability through exercise logs.
+
+*  Provides a brief overview of advancements, strenghthening dedication.
+
+*  Streamlines the procedure to allow users to concentrate on their fitness rather than the complexity of the application.
+
+### Workout Timer:
+
+Timing exercises like as interval training,sets, and rest periods require the use of a workout timer.
+
+##### Design choices that support this feature:
+
+* A didicated timer page gurantess that users can easily access the timer while working out.
+
+* Simple interface, makes it easier to operate in the middle of an exercise by reducing distractions.
+
+* Simple Start/Stop and rest buttons, assists users in efficiently managing their routine.
+
+##### How it meets the needs:
+
 
 
 
