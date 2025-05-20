@@ -284,12 +284,26 @@ In conclusion,the four main sections of my mobile application (Home,water tracke
 
 # Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
 
+To justify how the decisions made during the design process to ensure the application meets indentified requirements. I will break it down:
+
+Home Page:
+
+Menu Page:
+
+Timer Page:
+
+Water Tracker Page:
+
+Workout counter:
+
 
 
 # Optimised version of the mobile application and how it met the client requirements:
 
 
+
 # Evaluate the design and optimised mobile app against client requiremenets
+
 
 
 
