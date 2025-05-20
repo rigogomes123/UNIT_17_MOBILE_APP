@@ -288,6 +288,8 @@ To justify how the decisions made during the design process to ensure the applic
 
 Home Page:
 
+
+
 Menu Page:
 
 Timer Page:
