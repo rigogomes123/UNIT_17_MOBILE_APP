@@ -339,6 +339,24 @@ Timing exercises like as interval training,sets, and rest periods require the us
 
 ##### How it meets the needs:
 
+* Supports timed sets and high intensity interval training.
+
+* Aids users in maintaining concentration and making the most of their training time.
+
+* Gurantees simple usability and avoids disruptions.
+
+### User friendly navigation:
+
+Maintaining user engagemnet requires smooth interaction. Usability is improved by your choice to organise the program using simple navigation components.
+
+##### Design choices that support this feature:
+
+* Three option on the menu page, users can quickly locate what they need by classifying the software into Timer, Water Tracker, and Workout Counter.
+
+* Every page has a left aligned back button so that users can always go back to the previoys part and avoid becoming frustrated and confuses.
+
+* The minimalist layout lessens cognite overload, which allows users to focus on tracking their fitness without interruptions.
+
 
 
 
