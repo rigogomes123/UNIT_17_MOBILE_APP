@@ -284,19 +284,19 @@ In conclusion,the four main sections of my mobile application (Home,water tracke
 
 # Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
 
-To justify how the decisions made during the design process to ensure the application meets indentified requirements. I will break it down:
+My application design priotitises efficacy, accessibility, and simplicity. Carefully considered design decisions that improve usability and motivation satisfy the three main need which are a water tracker, timer and a workout counter.
 
-Home Page:
+### Water Tracker:
+
+Enabling users to monitor their daily water consumption is one of the most important requirements. This requiremnet met by their choice to include a water trackeer, which gurantees that users can regularly record their intake.
 
 
+##### Design Choices that support this feature:
 
-Menu Page:
+* Dedicated wtaer tracking page:  Water tracking is made simple for users by having its own part, which eliminates the need to navigate through pointless menus.
 
-Timer Page:
+* Easy data entry mechanism: User can easily report their consumption thanks to an easy to use interface, which promotes habit building without difficulty.
 
-Water Tracker Page:
-
-Workout counter:
 
 
 
