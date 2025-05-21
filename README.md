@@ -206,7 +206,8 @@ The wellness spa and gym app's menu page is well designed and easy to use,with o
 
 Timer Page:
 
-![image](https://github.com/user-attachments/assets/ca16f1a8-ced1-4a23-a33d-39cc4a27e4aa)
+![image](https://github.com/user-attachments/assets/fb15db79-a108-446b-986b-2ea846e955a4)
+
 
 How it met the design criteria:
 
