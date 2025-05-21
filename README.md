@@ -508,6 +508,7 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 #### My optimised design was kept the same as my original design:
 
+![image](https://github.com/user-attachments/assets/a9f98301-bc04-48a8-82a8-902a4ce71983)
 
 
 
