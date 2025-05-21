@@ -456,7 +456,8 @@ Additionally, by eliminating unnecessary distractions, this design change mainta
 
 ## My optimised design:
 
-![image](https://github.com/user-attachments/assets/fb15db79-a108-446b-986b-2ea846e955a4)
+![image](https://github.com/user-attachments/assets/44669772-0861-4ae7-9234-c509c4b6aafe)
+
 
 ## water tracker page:
 
