@@ -522,9 +522,22 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
-#### Individual responsavility:
+#### Individual responsability:
+
+* #### Taking Ownership of the project
+
+I have demonstrated 
+
+* Applying Technical skills to meet Requirements
+
+
+
+* Independent Problem Solving and Decision Making
+
+* Commitment to quality and accountability
 
 #### Creativity:
+
 
 #### Effective self managemnt:
 
