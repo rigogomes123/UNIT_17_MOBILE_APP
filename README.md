@@ -1,4 +1,4 @@
-#  P3 Produce designs for a mobile app to meet identified requirements:
+#  P3: Produce designs for a mobile app to meet identified requirements:
 
 ### Introduction:
 
@@ -556,6 +556,7 @@ Futhermore, my approach to the user interface was creative. In order to convey t
 
 * #### Orginal Problem solving:
 
+I used innovative problem solving stategies during developmeny to get past obstacles like combining all the elements into a seamless experience and maximising performacne across a range of devices.
 
 ## Effective self managemnt:
 
