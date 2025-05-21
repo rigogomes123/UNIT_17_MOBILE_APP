@@ -393,12 +393,12 @@ A welcoming and motivational home page creates the ideal atmosphere for visitors
 The design of my application efficently satisfies the needs of the spa and gym while guranteeing a simple,seamless, and inspiring user experience. Every element has been designed to improve usability so that users can easily form healthy habits. The app is a useful wellness companion beacuse it has clear monitoring features, a sensible navigation system, and inpirational components.
 
 
-# M3  optimisation of the application:
+# M3: optimisation of the application:
 
 https://drive.google.com/file/d/1prHscjnXF5Ycqau8wwDHCUfgH9KjxH39/view?usp=sharing
 
 
-# Evaluate the design and optimised mobile app against client requiremenets
+#  D2: Evaluate the design and optimised mobile app against client requiremenets
 
 
 ## Home screen/ page:
@@ -514,7 +514,7 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
-# Demonstrate individual responsibility, creativity and effective self - managemnt in the design, development and review of a mobile app.
+#  D3: Demonstrate individual responsibility, creativity and effective self - managemnt in the design, development and review of a mobile app.
 
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/e0def9c1-8b15-4f7d-bbb7-5240fd675397" />
 
