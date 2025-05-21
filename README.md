@@ -570,7 +570,11 @@ I thoroughly examined the client's needs before starting to design the mobile ap
 
 * #### Building core features:
 
+During development, I managed to create a water intake which allowed the users to log with multiple input options, they can record their usage in mililitres. Additionally, I added a tool that allows users to track their progress and complete and register their workout. Futhermore I created a specific timer function with sets and adjustable interbals to accommodate various programs. To make absolutely sure that the client requiremnet needs and operated dependable, each feature.
+
 * #### user interface and functionality review:
+
+
 
 * #### Final testing and feedback integratio:
 
