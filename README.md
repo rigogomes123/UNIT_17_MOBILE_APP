@@ -542,6 +542,20 @@ I proved my technical proficiency as well as my strong sense of accountability, 
 
 ## Creativity:
 
+* #### Creative approach to meeting client needs:
+
+I demonstrated creativity by designing and creating a mobile application in android studio that went above and beyond the minimal specifications by established by a local gym and wellness spa. I was able to handle the issue creatively rather than following a prefined structure, making sure the app was not only useful but also really interesting and customised to the particular wellness focused audience.
+
+* #### Innovative feature Design:
+
+
+
+* #### Thoughful User Experience and interface:
+
+
+
+* #### Orginal Problem solving:
+
 
 ## Effective self managemnt:
 
