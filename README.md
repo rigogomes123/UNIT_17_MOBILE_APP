@@ -422,7 +422,11 @@ Distractions can be minimised and the user can concentrate on the primary action
 After reviewing my first design, my menu page is e
 
 
+### Timer page:
 
+![image](https://github.com/user-attachments/assets/44de9843-6643-4b0b-b32a-dfd0d9b9ff85)
+
+![image](https://github.com/user-attachments/assets/15b95a61-b3ef-4672-a0eb-811e462e7225)
 
 
 # Evaluate the design and optimised mobile app against client requiremenets
