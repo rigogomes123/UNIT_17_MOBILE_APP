@@ -538,11 +538,11 @@ I worked alone on the project, making very important choices on design and devel
 
 * #### Commitment to quality and accountability
 
-
+I proved my technical proficiency as well as my strong sense of accountability, probelm solving skills, and commitment to taking a project through to conclusion by siccessfully providing an application that satisfies actual client requirements.
 
 ## Creativity:
 
 
-#### Effective self managemnt:
+## Effective self managemnt:
 
-#### Development and review of a mobile app:
+## Development and review of a mobile app:
