@@ -480,7 +480,20 @@ Needs improvemnets:  Users anticipate an easy way to go back to previous pages, 
 
 #### The suggestion for optimisation.
 
+To be able to incldude a back button that takes users to the menu page on the water tracker page. This is a little but also crucial feature that will signficantly improve the app's usability and gurantee that users can move between screens with ease
 
+##### Conclusion:
+
+Although my water tracking page design is up to standard and works well, a completely satisfy the client. It's a little adjustment that will ehnace navigation and give the app or a more user friendly feel.
+
+### My optimised design:
+
+![image](https://github.com/user-attachments/assets/859f8d36-77e0-4190-9528-66398017470b)
+
+
+## In comparison with my old design:
+
+![image](https://github.com/user-attachments/assets/4f988f58-8fc4-4107-b75c-817dda304a00)
 
 ## workout counter Page:
 
