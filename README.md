@@ -422,6 +422,10 @@ Distractions can be minimised and the user can concentrate on the primary action
 ![image](https://github.com/user-attachments/assets/7a5da798-a0cc-44da-9754-097687669627)
 
 
+## In comparsion with my old page:
+
+![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
+
 
 ### Timer page:
 
