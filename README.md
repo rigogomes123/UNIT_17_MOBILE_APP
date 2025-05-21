@@ -528,9 +528,9 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 I have demonstrated strong anc clear individual resposibility by using android studio to create a completely functional application that can be customised to fit the requirements of a local wellness spa and gym. I assumed full reponsibility for the assignment after being approached based on my prior research. I thoroughly reviewed their requirements and made sure everything was met in the finished product.
 
-* Applying Technical skills to meet Requirements
+* #### Applying Technical skills to meet Requirements
 
-
+I created important features using my technical skills, such as a water intake tracker that lets users record how many militres they have drunk each day. Additionally, I added a workout tracker that lets users input what workout they would like to do and count the amount of reps for example. I also included a timer feature that can be used during workouts, giving users a place to go for tracking their habits and fitness levels.
 
 * Independent Problem Solving and Decision Making
 
