@@ -497,6 +497,9 @@ Although my water tracking page design is up to standard and works well, a compl
 
 ## workout counter Page:
 
+My current mobile app's displays a strong foundation and satisfies a number of the client's essential needs, especially those related to tracking workouts. User are able to input their preffered workout and use the counter with ease and there are button available such as increase and decrease to modify the counter. This simple interface design encourages rapid engagemnet and works especially well on mobile devices,where clarity and simplicity are essentially crucial. A wide range of users can utilise it because of the user friendly interface, which improves usability overall.
+
+One of the client main needs is successfully met by the application ability to track daily water intake. The software allows users to input the amount of water to track the total. This feature complements the spa and gym;s well focused objectives and encourage the formation of good hydration habits. By implementing this feature, the whole application highlits itseld as a more complete habit tracking look.
 
 
 
