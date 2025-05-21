@@ -576,6 +576,6 @@ During development, I managed to create a water intake which allowed the users t
 
 
 
-* #### Final testing and feedback integratio:
+* #### Final testing and feedback integratiom:
 
 
