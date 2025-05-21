@@ -392,6 +392,35 @@ The design of my application efficently satisfies the needs of the spa and gym w
 
 # Optimised version of the mobile application and how it met the client requirements:
 
+##Home screen:
+
+Optimisation:
+
+The reason I decided to optimse a basic home screen, even rhough It fully meets the client requirements there are some issues with it, in my first design I implemented a text using a black fount it was fully visible, Here is the optimisation I have to and why I did so:
+
+
+#### Improved readability:
+
+Users can become irritaed if the text is difficult to see, particularly if it is read against the background. Optimising the design by using text shadows, readable fonts gurantees that users can comprehend the call to action or message with ease.
+
+
+
+#### Improved viusability:
+
+For users to know what to do first, a home screen mus have a clear visual structure.The "Get Started" button stands out more and directs the user to the next step by optimising elements like button size, placement and typography.
+
+
+#### Enhanced user focus:
+
+Distractions can be minimised and the user can concentrate on the primary action the button with the help of a clear, easthetically balanced layout that includes well paced button, background, and spacing. As a result, the app feels less complicated and more intruitive.
+
+
+## Menu page:
+
+After reviewing my first design, my menu page is e
+
+
+
 
 
 # Evaluate the design and optimised mobile app against client requiremenets
