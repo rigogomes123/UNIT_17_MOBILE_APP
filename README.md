@@ -465,7 +465,21 @@ Overall I am extremly happ and how my timer page has turned out after optimisati
 
 My water tracker design in my first design fully meets the requiremnet as it allows the user to input tha amount of water they have drunk througout the day. I have successfully implemneted a feature which returns amount of water in militers which successfu;;y aligns with the client requiremnets for a practicual solution.
 
-How during My first desig there was a small but important problem which I improved in my optimisation which was "back" button. while my first application was complete functionality
+How during My first desig there was a small but important problem which I improved in my optimisation which was "back" button.  The absence of a back button to return for the previous page creates a usability problem even though the software is completely functional in terms of monitoring the water inktae and collecting input. For a smooth and clear user experience, navigation flow is essential in mobile app design. Since they might not know how to get back to the menu page or other areas of the program,users who expect to be able to switch between screen with ease may become frustarted.
+
+
+#### Tracking water intake:
+
+* Meets Requirements
+
+The client requested this functionality, and the user input function for tracking water consumption is fully operational and provides data in mililitres.
+
+* Navigation (Back button)
+
+Needs improvemnets:  Users anticipate an easy way to go back to previous pages, therefore the lack of a back button is a small problem that can destract from overall user experience. This page would be much easier to navigate and would follow best practices for mobile app design if it had a back button.
+
+#### The suggestion for optimisation.
+
 
 
 ## workout counter Page:
