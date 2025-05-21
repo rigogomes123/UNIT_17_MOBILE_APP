@@ -574,8 +574,8 @@ During development, I managed to create a water intake which allowed the users t
 
 * #### user interface and functionality review:
 
-
+After the main features were implemneted, I tested the app's resposiveness, flow, and interface to review the overall user experience. I improved button placement, streamlined the layout, and make sure that the naviagtion was clear in order to increase use, also i was able to fix minor flaws and usability issues through design.
 
 * #### Final testing and feedback integratiom:
 
-
+I thoroughly tested the program on a variety of devices before completing it to make sure it worked and was compatible. I made the last adjustments to improve stability and user hapiness for this review. The application was polished, professional and prepared to satisfy the client's practical needs.
