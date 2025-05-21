@@ -548,7 +548,7 @@ I demonstrated creativity by designing and creating a mobile application in andr
 
 * #### Innovative feature Design:
 
-
+I cleverly implemented a water intake tracker that enables both visual and numerical input, such as designing icons for the burron, to make tracking habits more simpler and motivational. The workout monitoring tool was made to be adaptable, enabling users to see trends or patterns and supporting a variety of activity styles. In order to improve usabiliy.
 
 * #### Thoughful User Experience and interface:
 
