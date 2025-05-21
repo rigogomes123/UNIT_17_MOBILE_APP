@@ -394,7 +394,7 @@ The design of my application efficently satisfies the needs of the spa and gym w
 
 # Optimised version of the mobile application and how it met the client requirements:
 
-##Home screen:
+## Home screen/ page:
 
 Optimisation:
 
@@ -417,21 +417,20 @@ For users to know what to do first, a home screen mus have a clear visual struct
 Distractions can be minimised and the user can concentrate on the primary action the button with the help of a clear, easthetically balanced layout that includes well paced button, background, and spacing. As a result, the app feels less complicated and more intruitive.
 
 
-## Menu page:
+## This is my optimised home page:
 
-After reviewing my first design, my menu page is e
+![image](https://github.com/user-attachments/assets/7a5da798-a0cc-44da-9754-097687669627)
+
 
 
 ### Timer page:
 
-![image](https://github.com/user-attachments/assets/44de9843-6643-4b0b-b32a-dfd0d9b9ff85)
 
-![image](https://github.com/user-attachments/assets/15b95a61-b3ef-4672-a0eb-811e462e7225)
 
 
 ## water tracker page:
 
-![image](https://github.com/user-attachments/assets/63ae0650-d56f-4db2-8b95-b2270b6381e4)
+
 
 
 # Evaluate the design and optimised mobile app against client requiremenets
