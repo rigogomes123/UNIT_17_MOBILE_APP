@@ -446,6 +446,11 @@ With the timer set to start at "0" and go to "00:00" I wanted the count to feel 
 
 Additionally, by eliminating unnecessary distractions, this design change maintains the attention on the timer's primary purpose, which is to precisely record workout times. Overal this startegy gurantees that the timer page satisfies the client's need while still staying true to the overall objectives of simplicity,usability, and establishing an immersive health experience.
 
+### My previous design:
+
+
+## My optimised design:
+
 
 
 ## water tracker page:
