@@ -237,19 +237,19 @@ By providing users with an easy to use and efficient method of tracking their da
 |-|-------|-------|-------|-------|
 |    The "Get started" button works and moves on to the next page  |    Button   |   Stability    |    To make sure thate the button succesfully leads to the next page "menu page"   |     Pass  |
 |   Timer continues counting corrcetly over time    |   Timer    |   Stability    |    To make sure the timer operates pricesly and doesn't crash or freeze for long stretches of time   | Pass       |
-|     Timer handles rapid start/pause/reset clicks  |     Timer  |   Stability    |   To verify that the application maintains stability when buroon are clicked quickly one after the other    |       |
-|   Timer UI updates correctly    |    Timer   |     Usability  |  It verifies that the timer display is updated and that the time is formatted correctly such as mm:ss for secound and minutes     |       |
-|    Timer buttons enable/ disable appropriately    |    Timer  |   Usability    |    To check that the start,pause, and reste buttons are turned on and off according to the timer's current state   |       |
-|   Timer responds quickly to user input    |    Timer   |    Performance    |    To verify that there is no dealy in the timer's reponse to the user commands   |       |
-|    Water intake increases by correct amount   |    Water Tracker   |  Stability     |   To verify that the application does not crash or display errors when you frequently register your water consumption    |       |
-|   Water tracker shows clear intake total    |    Water Tracker   |    Usability   |    To check that the water inktake display is visible,clear, and updates appropriately   |       |
-|    Water tracker buttons are responsive   |   Water Tracker    |    Performance   |   Makes sure that the user is able to react quickly when resettung the tracker or adding water    |       |
-|   Workout counter counts workout reps without errors    |   Workout Counter    |   Stability    |   During extended workouts,makes sure the workout counter doesn't crash or miscount    |       |
-|   Workout Counter UI clearly shows rep count    |   Workout Counter    |  Usability     |   To verify the format and legibility of the exercise repetitions that are displayed    |       |
-|   Workout counter reacts instantly to controls    |  Workout Counter     |    Performance   |   To verify that the exercise counter reacts instantly when it is started,paused, or reset    |       |
-|   App handles backgrounding and foregrounding    |   All    |  Stability     |  To verify that timers and trackers accurately perserve state when the application is relauched or backgrounded     |       |
-|    App interface is intutive and buttons labeled well   |   All    |  Stability     |    To make sure users can utilise the app's functionalities without diffuclty and with ease   |       |
-|    App launches quickly without any delays   |   All    |   Performance    |    To check that the app's starting time satisfies acceptable requiremnets    |       |
+|     Timer handles rapid start/pause/reset clicks  |     Timer  |   Stability    |   To verify that the application maintains stability when buroon are clicked quickly one after the other    |   Pass    |
+|   Timer UI updates correctly    |    Timer   |     Usability  |  It verifies that the timer display is updated and that the time is formatted correctly such as mm:ss for secound and minutes     |   Pass    |
+|    Timer buttons enable/ disable appropriately    |    Timer  |   Usability    |    To check that the start,pause, and reste buttons are turned on and off according to the timer's current state   |    Pass   |
+|   Timer responds quickly to user input    |    Timer   |    Performance    |    To verify that there is no dealy in the timer's reponse to the user commands   |    Pass   |
+|    Water intake increases by correct amount   |    Water Tracker   |  Stability     |   To verify that the application does not crash or display errors when you frequently register your water consumption    |    Pass   |
+|   Water tracker shows clear intake total    |    Water Tracker   |    Usability   |    To check that the water inktake display is visible,clear, and updates appropriately   |     Pass  |
+|    Water tracker buttons are responsive   |   Water Tracker    |    Performance   |   Makes sure that the user is able to react quickly when resettung the tracker or adding water    |   Pass    |
+|   Workout counter counts workout reps without errors    |   Workout Counter    |   Stability    |   During extended workouts,makes sure the workout counter doesn't crash or miscount    |   Pass    |
+|   Workout Counter UI clearly shows rep count    |   Workout Counter    |  Usability     |   To verify the format and legibility of the exercise repetitions that are displayed    |    Pass   |
+|   Workout counter reacts instantly to controls    |  Workout Counter     |    Performance   |   To verify that the exercise counter reacts instantly when it is started,paused, or reset    |   Pass    |
+|   App handles backgrounding and foregrounding    |   All    |  Stability     |  To verify that timers and trackers accurately perserve state when the application is relauched or backgrounded     |    Pass   |
+|    App interface is intutive and buttons labeled well   |   All    |  Stability     |    To make sure users can utilise the app's functionalities without diffuclty and with ease   |     Pass  |
+|    App launches quickly without any delays   |   All    |   Performance    |    To check that the app's starting time satisfies acceptable requiremnets    |   Pass    |
 |       |       |       |       |       |
 
 
