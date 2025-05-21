@@ -522,7 +522,7 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
-#### Individual responsibility:
+## Individual responsibility:
 
 * #### Taking Ownership of the project
 
@@ -532,11 +532,15 @@ I have demonstrated strong anc clear individual resposibility by using android s
 
 I created important features using my technical skills, such as a water intake tracker that lets users record how many militres they have drunk each day. Additionally, I added a workout tracker that lets users input what workout they would like to do and count the amount of reps for example. I also included a timer feature that can be used during workouts, giving users a place to go for tracking their habits and fitness levels.
 
-* Independent Problem Solving and Decision Making
+* #### Independent Problem Solving and Decision Making
 
-* Commitment to quality and accountability
+I worked alone on the project, making very important choices on design and development. I also made sure that the app was dependable an easy to use by fixing any technical issues as they appeared. From planning and coding to testing.My ability to oversee the complete development process demonstrated my dedication.
 
-#### Creativity:
+* #### Commitment to quality and accountability
+
+
+
+## Creativity:
 
 
 #### Effective self managemnt:
