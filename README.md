@@ -429,6 +429,11 @@ After reviewing my first design, my menu page is e
 ![image](https://github.com/user-attachments/assets/15b95a61-b3ef-4672-a0eb-811e462e7225)
 
 
+## water tracker page:
+
+![image](https://github.com/user-attachments/assets/63ae0650-d56f-4db2-8b95-b2270b6381e4)
+
+
 # Evaluate the design and optimised mobile app against client requiremenets
 
 
