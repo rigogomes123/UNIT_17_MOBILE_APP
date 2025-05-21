@@ -448,10 +448,11 @@ Additionally, by eliminating unnecessary distractions, this design change mainta
 
 ### My previous design:
 
+![image](https://github.com/user-attachments/assets/fb15db79-a108-446b-986b-2ea846e955a4)
 
 ## My optimised design:
 
-
+![image](https://github.com/user-attachments/assets/fb15db79-a108-446b-986b-2ea846e955a4)
 
 ## water tracker page:
 
