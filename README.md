@@ -463,7 +463,9 @@ Overall I am extremly happ and how my timer page has turned out after optimisati
 
 ## water tracker page:
 
-My water tracker design in my first design fully meets the requiremnet as it allows the user to intake 
+My water tracker design in my first design fully meets the requiremnet as it allows the user to input tha amount of water they have drunk througout the day. I have successfully implemneted a feature which returns amount of water in militers which successfu;;y aligns with the client requiremnets for a practicual solution.
+
+How during My first desig there was a small but important problem which I improved in my optimisation which was "back" button. while my first application was complete functionality
 
 
 ## workout counter Page:
