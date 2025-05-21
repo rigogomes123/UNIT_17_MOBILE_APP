@@ -563,3 +563,15 @@ I used innovative problem solving stategies during developmeny to get past obsta
 
 
 ## Development and review of a mobile app:
+
+* #### Planning and development of the mobile app:
+
+I thoroughly examined the client's needs before starting to design the mobile application, which ic=ncluded logging workouts, tracking water intake and also adding a timer. I designed the app's structure, including its UI and feature integration, using android studio. I ensured a seamless and well organised development process by dividing the project into manageable phases, such as feature coidng, layout and functionality testing.
+
+* #### Building core features:
+
+* #### user interface and functionality review:
+
+* #### Final testing and feedback integratio:
+
+
