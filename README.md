@@ -214,14 +214,15 @@ The timer I created met the design criteria by offering a starightforward and us
 
 Water Tracker Page:
 
-![image](https://github.com/user-attachments/assets/7cf8db57-c95d-43ee-b64b-176217288e93)
+![image](https://github.com/user-attachments/assets/4f988f58-8fc4-4107-b75c-817dda304a00)
 
 
 How it met the design criteria:
 
 workout counter page:
 
-![image](https://github.com/user-attachments/assets/6100e1fc-0521-475e-997b-1c07ddb677b8)
+![image](https://github.com/user-attachments/assets/a9f98301-bc04-48a8-82a8-902a4ce71983)
+
 
 How it met the design criteria:
 
