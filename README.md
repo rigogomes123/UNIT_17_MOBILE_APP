@@ -516,10 +516,6 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 #  D3: Demonstrate individual responsibility, creativity and effective self - managemnt in the design, development and review of a mobile app.
 
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/e0def9c1-8b15-4f7d-bbb7-5240fd675397" />
-
-<img width="416" alt="image" src="https://github.com/user-attachments/assets/5df59890-ff3e-4893-9a8c-c3619faccc15" />
-
 
 
 ## Individual responsibility:
@@ -559,5 +555,11 @@ Futhermore, my approach to the user interface was creative. In order to convey t
 I used innovative problem solving stategies during developmeny to get past obstacles like combining all the elements into a seamless experience and maximising performacne across a range of devices.
 
 ## Effective self managemnt:
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/e0def9c1-8b15-4f7d-bbb7-5240fd675397" />
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/5df59890-ff3e-4893-9a8c-c3619faccc15" />
+
+
 
 ## Development and review of a mobile app:
