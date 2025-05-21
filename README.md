@@ -506,6 +506,8 @@ Futhermore, ehnacements to user feedback and data persistence could help the exi
 Finally, even if the functional components are there, the app's attractiveness might be increased by optimising the visual design to match client's brand. The spa and gym's wellness focused concept would be reflected by using smoothing colour scheme, rounded, smooth user interface elements and consistent typography. Considerations for accessibility, including large tappable regions and sufficient colour contrast, would gurantee that a larger audience could use the application. Overall the application provides a solid foundation, specific enhacements and improvements are necessary to completely satisfy the client's specific requirements.
 
 
+#### My optimised design was kept the same as my original design:
+
 
 
 
