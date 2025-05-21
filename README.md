@@ -434,7 +434,7 @@ Distractions can be minimised and the user can concentrate on the primary action
 
 ### How it meets the client requirements:
 
-Focsuin on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the tex to make sure the contet was easy to read.
+Focsuin on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the text to make sure the contet was easy to read.
 
 
 ### Timer page:
@@ -444,7 +444,7 @@ For a number of reasons, I choose to optimise the timer page by turning the back
 
 With the timer set to start at "0" and go to "00:00" I wanted the count to feel more organic and natural. This design decision promotes clarify and functionality. Starting at "0" gives user a clear baseline, and since "00:00" is a widely accepted and readable time format, watching the timer progress offers superior visual feddback. This makes it easier for users to keep track of the length of their workouts and gurantees that the timer is not only user friendly buy compatibem with regular workout timer formats.
 
-Additionally, by eliminating unnecessary distractions, 
+Additionally, by eliminating unnecessary distractions, this design change maintains the attention on the timer's primary purpose, which is to precisely record workout times. Overal this startegy gurantees that the timer page satisfies the client's need while still staying true to the overall objectives of simplicity,usability, and establishing an immersive health experience.
 
 
 
