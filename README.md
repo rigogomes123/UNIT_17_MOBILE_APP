@@ -512,7 +512,11 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
-
-
 # Demonstrate individual responsibility, creativity and effective self - managemnt in the design, development and review of a mobile app.
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/e0def9c1-8b15-4f7d-bbb7-5240fd675397" />
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/5df59890-ff3e-4893-9a8c-c3619faccc15" />
+
+
 
