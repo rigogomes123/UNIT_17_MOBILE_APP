@@ -434,7 +434,7 @@ Distractions can be minimised and the user can concentrate on the primary action
 
 ### How it meets the client requirements:
 
-Focsuin on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the text to make sure the contet was easy to read.
+Focsuing on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the text to make sure the contet was easy to read.
 
 ## Menu/options page:
 
@@ -450,6 +450,8 @@ With the timer set to start at "0" and go to "00:00" I wanted the count to feel 
 
 Additionally, by eliminating unnecessary distractions, this design change maintains the attention on the timer's primary purpose, which is to precisely record workout times. Overal this startegy gurantees that the timer page satisfies the client's need while still staying true to the overall objectives of simplicity,usability, and establishing an immersive health experience.
 
+Overall I am extremly happ and how my timer page has turned out after optimisation, futhermore it meets the requirement that was asked in the assignment brief (Have some sort of timer that can be used to time workouts).
+
 ### My previous design:
 
 ![image](https://github.com/user-attachments/assets/fb15db79-a108-446b-986b-2ea846e955a4)
@@ -460,6 +462,8 @@ Additionally, by eliminating unnecessary distractions, this design change mainta
 
 
 ## water tracker page:
+
+
 
 
 ## workout counter Page:
