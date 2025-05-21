@@ -552,7 +552,7 @@ I cleverly implemented a water intake tracker that enables both visual and numer
 
 * #### Thoughful User Experience and interface:
 
-
+Futhermore, my approach to the user interface was creative. In order to convey the spa and wellness theme, I used calming colours, simple, layouts, and inspirational graphic components. I made the app to fell more like a helpful companion on a users fitness journey.
 
 * #### Orginal Problem solving:
 
