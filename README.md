@@ -436,6 +436,10 @@ Distractions can be minimised and the user can concentrate on the primary action
 
 Focsuin on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the text to make sure the contet was easy to read.
 
+## Menu/options page:
+
+
+
 
 ### Timer page:
 
