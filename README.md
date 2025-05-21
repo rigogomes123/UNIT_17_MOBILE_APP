@@ -1,4 +1,4 @@
-# Produce designs for a mobile app to meet identified requirements:
+#  P3 Produce designs for a mobile app to meet identified requirements:
 
 ### Introduction:
 
@@ -85,7 +85,7 @@ For developing this projetc, psuedocode served as a blueprint.Since the logic an
 
 Overall Psuedocode was a useful tool for designing ans sketching out how my program/code will look.
 
-# Review the mobile app designs with others to identify and inform refinements:
+#  P4 Review the mobile app designs with others to identify and inform refinements:
 
 
 From the feedback I recived from two of my classmates I decied to better my design 
@@ -182,7 +182,7 @@ The refinemnets I made in this design were very little, I just made clear where 
 
 Overall I was able to create a better wireframe from the feedback I recived from my peers and also just using android studio more and understanding how its syntax works.
 
-# Mobile app produced:
+#  P5 Mobile app produced:
 
 home Page produced:
 
@@ -230,7 +230,7 @@ How it met the design criteria:
 By providing users with an easy to use and efficient method of tracking their daily workouts, the workout counter I designed satisfies the design requirements.With the output value always starting a zero every day, it has buttons for plus and minus that let users change the count. Users may easily record the amount of workouts they complete thanks to this user friendly design, which supports them in maintaining consistency with their fitness objectives.The counter's simple operation satisfies the client's need to track physical activity as it designed to work for mobile devices,making it user friendly in both spa and gym setiings.
 
 
-# Test plan for functionality, usability, stability and performance:
+# P6  Test plan for functionality, usability, stability and performance:
 
 
 | Test Scneario | Feature | Test Type | Description | Pass or Fail |
@@ -256,7 +256,7 @@ By providing users with an easy to use and efficient method of tracking their da
 
 
 
-# A review to which extend the mobile application met the identified requiremnets:
+#  P7: A review to which extend the mobile application met the identified requiremnets:
 
 ### Home page:
 
@@ -284,7 +284,7 @@ By allowing visitors to monitor their daily hydration,the water tracker page dir
 In conclusion,the four main sections of my mobile application (Home,water tracker, workout counter and timer) all have distinct functions and a solid foundation.However, goal monitoring, visual feedback, customisation, and historical data should be included to each element in order to fullly satisfy the spa and gym's criterua and give users a meaningful experience.
 
 
-# Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
+# M2: Justification of how decisions made during the design process ensured the design for the application will meet indentified requirements:
 
 My application design priotitises efficacy, accessibility, and simplicity. Carefully considered design decisions that improve usability and motivation satisfy the three main need which are a water tracker, timer and a workout counter.
 
@@ -391,7 +391,7 @@ A welcoming and motivational home page creates the ideal atmosphere for visitors
 The design of my application efficently satisfies the needs of the spa and gym while guranteeing a simple,seamless, and inspiring user experience. Every element has been designed to improve usability so that users can easily form healthy habits. The app is a useful wellness companion beacuse it has clear monitoring features, a sensible navigation system, and inpirational components.
 
 
-# optimisation of the application:
+# M3  optimisation of the application:
 
 
 
@@ -520,3 +520,10 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
+#### Individual responsavility:
+
+#### Creativity:
+
+#### Effective self managemnt:
+
+#### Development and review of a mobile app:
