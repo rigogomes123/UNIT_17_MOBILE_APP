@@ -186,6 +186,9 @@ Overall I was able to create a better wireframe from the feedback I recived from
 
 https://drive.google.com/file/d/1h6J956g3NL-gCKIBzCX-i9U8tTC3x1ro/view?usp=sharing 
 
+Emulator used: Medium Phone API 36
+
+
 home Page produced:
 
 ![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
@@ -396,6 +399,9 @@ The design of my application efficently satisfies the needs of the spa and gym w
 # M3: optimisation of the application:
 
 https://drive.google.com/file/d/1prHscjnXF5Ycqau8wwDHCUfgH9KjxH39/view?usp=sharing
+
+Emulator used: Medium Phone API 36
+
 
 
 #  D2: Evaluate the design and optimised mobile app against client requiremenets
