@@ -391,8 +391,13 @@ A welcoming and motivational home page creates the ideal atmosphere for visitors
 The design of my application efficently satisfies the needs of the spa and gym while guranteeing a simple,seamless, and inspiring user experience. Every element has been designed to improve usability so that users can easily form healthy habits. The app is a useful wellness companion beacuse it has clear monitoring features, a sensible navigation system, and inpirational components.
 
 
+# optimisation of the application:
 
-# Optimised version of the mobile application and how it met the client requirements:
+
+
+
+# Evaluate the design and optimised mobile app against client requiremenets
+
 
 ## Home screen/ page:
 
@@ -427,17 +432,30 @@ Distractions can be minimised and the user can concentrate on the primary action
 ![image](https://github.com/user-attachments/assets/569212dc-268a-493d-b6a5-5e8f088c1fa8)
 
 
+### How it meets the client requirements:
+
+Focsuin on the design's contrast, font selection,spacing and colour coding is crucial for suitable clarity and usability. To make material easier to read, first I made sure that there was a good contrats between the background an the tex to make sure the contet was easy to read.
+
+
 ### Timer page:
 
+For a number of reasons, I choose to optimise the timer page by turning the background brown and adding a timer that changes from simply "0" to "00:00" in order to better satisfy  the design requirements. FIrst, in keeping with the wellness gym/ spa designs, the brown background produces a relaxing, earthly tone. Warmth, solidity, and relaxation are frequently linked to the colour brown, which helps users create a more peaceful and focused environment, particularly while they are exercising or meditating.This improves the user experience and is consistent with the app's wellness theme.
+
+
+With the timer set to start at "0" and go to "00:00" I wanted the count to feel more organic and natural. This design decision promotes clarify and functionality. Starting at "0" gives user a clear baseline, and since "00:00" is a widely accepted and readable time format, watching the timer progress offers superior visual feddback. This makes it easier for users to keep track of the length of their workouts and gurantees that the timer is not only user friendly buy compatibem with regular workout timer formats.
+
+Additionally, by eliminating unnecessary distractions, 
 
 
 
 ## water tracker page:
 
 
+## workout counter Page:
 
 
-# Evaluate the design and optimised mobile app against client requiremenets
+
+
 
 
 
