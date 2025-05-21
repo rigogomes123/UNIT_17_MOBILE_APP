@@ -522,11 +522,11 @@ Finally, even if the functional components are there, the app's attractiveness m
 
 
 
-#### Individual responsability:
+#### Individual responsibility:
 
 * #### Taking Ownership of the project
 
-I have demonstrated 
+I have demonstrated strong anc clear individual resposibility by using android studio to create a completely functional application that can be customised to fit the requirements of a local wellness spa and gym. I assumed full reponsibility for the assignment after being approached based on my prior research. I thoroughly reviewed their requirements and made sure everything was met in the finished product.
 
 * Applying Technical skills to meet Requirements
 
